@@ -1,0 +1,7 @@
+{
+    "BaseDir": "",
+    "EntryPoint": "YourMod.Main",
+    "IsDevelopment": true,
+    "Name": "DisableCollisions",
+    "Project": "DisableCollision.csproj"
+}
